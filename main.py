@@ -1,3 +1,4 @@
-from draw import Pend
+from main_window import MainWindow
 
-start = Pend()
+start = MainWindow()
+start.run()
